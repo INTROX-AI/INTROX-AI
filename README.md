@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/fd08ffde-c6a8-400a-a761-731486792d83" align="center" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/fd08ffde-c6a8-400a-a761-731486792d83" align="center" style="width: 50%" />
 </div>  
   
 
@@ -120,5 +120,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
