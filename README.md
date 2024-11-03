@@ -10,7 +10,7 @@
 </h1>
 
 <h2 align="center" style="margin-left: 40px;">
-  a new startup aiming to foster Artificial Intelligence.
+  ᴀ ɴᴇᴡ ꜱᴛᴀʀᴛᴜᴘ ᴀɪᴍɪɴɢ ᴛᴏ ꜰᴏꜱᴛᴇʀ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ.
 </h2>
 
 - 🔭 We're currently working on Viswa- A personal AI Assistant  
