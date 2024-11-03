@@ -3,8 +3,15 @@
 </div>  
   
 
-## <h1><div align="left">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) We're INTROX</div></h1>
-## <h1><div align="center">a new startup aiming to foster Artificial Intelligence.</div></h1>
+<h1 align="left">
+  Hi 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
+  We're INTROX
+</h1>
+
+<h2 align="center" style="margin-left: 40px;">
+  a new startup aiming to foster Artificial Intelligence.
+</h2>
 
 - 🔭 We're currently working on Viswa- A personal AI Assistant  
   
