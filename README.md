@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/7e2639bf-80cd-4d31-9a3d-5261ea2ae886" align="center" style="width: 30%" />
+<img src="https://github.com/INTROX-AI/INTROX-AI/blob/efbf14c8c401c5db91b77b8aa85be947c966e798/assets/logo.gif" align="center" style="width: 30%" />
 </div>  
   
 
