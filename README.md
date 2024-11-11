@@ -10,7 +10,7 @@
 </h1>
 
 <h2 align="center" style="margin-left: 40px;">
-  ᴀ ɴᴇᴡ ꜱᴛᴀʀᴛᴜᴘ ᴀɪᴍɪɴɢ ᴛᴏ ꜰᴏꜱᴛᴇʀ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ.
+  ʙʀɪɴɢɪɴɢ ᴀɪ ᴛᴏ ʙʀɪɢʜᴛᴇɴ ʟɪᴠᴇꜱ...
 </h2>
 
 - 🔭 We're currently working on Viswa- A personal AI Assistant  
