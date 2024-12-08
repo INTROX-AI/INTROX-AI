@@ -19,7 +19,10 @@
 - ❓ Ask us about anything related to our projects, aims and AI related queries stack and related technologies  
   
 
-- ⚡Thunder and lightning, it’s like the end of the world, but never the end.  
+- ⚡Thunder and lightning, it’s like the end of the world, but never the end.
+
+  
+- 🗿TaskMaster Pro Coming Soon 📆🗓️📆 ....
   
 
 <br/>  
