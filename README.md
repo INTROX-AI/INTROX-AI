@@ -22,7 +22,7 @@
 - ⚡Thunder and lightning, it’s like the end of the world, but never the end.
 
   
-- 🗿TaskMaster Pro Coming Soon 📆🗓️📆 ....
+- 🗿TaskMaster Pro Out Now 🔥 📆🗓️📆 ....
   
 
 <br/>  
