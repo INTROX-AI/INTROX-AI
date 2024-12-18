@@ -30,7 +30,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=introx-ai&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=introx-ai&color=lightgrey&&style=flat-square" align="center" />
 </div>  
   
 
